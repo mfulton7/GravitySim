@@ -1,0 +1,47 @@
+﻿Build started 4/11/2016 5:08:46 PM.
+     1>Project "d:\Users\Mitchell\documents\visual studio 2013\Projects\GameEngineProject-GravitySim\GameEngineProject-GravitySim\GameEngineProject-GravitySim.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\Users\Mitchell\Desktop\ogre\classENV\Build9/include/OGRE/Overlay /IC:\Users\Mitchell\Desktop\ogre\classENV\Build9/include/OGRE /IC:\Users\Mitchell\Desktop\ogre\classENV\boost_1_60_0 /IC:\Users\Mitchell\Desktop\ogre\classENV\Build9/include/OIS /IC:\Users\Mitchell\Desktop\ogre\classENV\Build9/include /I"C:\Users\Mitchell\Desktop\classEnv\bullet-2.82\src/BulletCollision/CollisionShapes" /I"C:\Users\Mitchell\Desktop\classEnv\bullet-2.82\src" /I"C:\Users\Mitchell\Desktop\classEnv\bullet-2.82\src/LinearMath" /I"C:\Users\Mitchell\Desktop\classEnv\cegui\include\cegui-0" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GravSim.cpp
+         GravSim.cpp
+     1>d:\users\mitchell\documents\visual studio 2013\projects\gameengineproject-gravitysim\gameengineproject-gravitysim\gravsim.cpp(72): warning C4316: 'MyMotionState' : object allocated on the heap may not be aligned 16
+     1>d:\users\mitchell\documents\visual studio 2013\projects\gameengineproject-gravitysim\gameengineproject-gravitysim\gravsim.cpp(123): warning C4316: 'MyMotionState' : object allocated on the heap may not be aligned 16
+     1>d:\users\mitchell\documents\visual studio 2013\projects\gameengineproject-gravitysim\gameengineproject-gravitysim\gravsim.cpp(244): warning C4305: 'argument' : truncation from 'double' to 'Ogre::Real'
+     1>d:\users\mitchell\documents\visual studio 2013\projects\gameengineproject-gravitysim\gameengineproject-gravitysim\gravsim.cpp(245): warning C4305: 'argument' : truncation from 'double' to 'Ogre::Real'
+     1>d:\users\mitchell\documents\visual studio 2013\projects\gameengineproject-gravitysim\gameengineproject-gravitysim\gravsim.cpp(246): warning C4305: 'argument' : truncation from 'double' to 'Ogre::Real'
+     1>d:\users\mitchell\documents\visual studio 2013\projects\gameengineproject-gravitysim\gameengineproject-gravitysim\gravsim.cpp(247): warning C4305: 'argument' : truncation from 'double' to 'Ogre::Real'
+     1>d:\users\mitchell\documents\visual studio 2013\projects\gameengineproject-gravitysim\gameengineproject-gravitysim\gravsim.cpp(248): warning C4305: 'argument' : truncation from 'double' to 'Ogre::Real'
+     1>d:\users\mitchell\documents\visual studio 2013\projects\gameengineproject-gravitysim\gameengineproject-gravitysim\gravsim.cpp(249): warning C4305: 'argument' : truncation from 'double' to 'Ogre::Real'
+     1>d:\users\mitchell\documents\visual studio 2013\projects\gameengineproject-gravitysim\gameengineproject-gravitysim\gravsim.cpp(250): warning C4305: 'argument' : truncation from 'double' to 'Ogre::Real'
+     1>d:\users\mitchell\documents\visual studio 2013\projects\gameengineproject-gravitysim\gameengineproject-gravitysim\gravsim.cpp(251): warning C4305: 'argument' : truncation from 'double' to 'Ogre::Real'
+     1>d:\users\mitchell\documents\visual studio 2013\projects\gameengineproject-gravitysim\gameengineproject-gravitysim\gravsim.cpp(252): warning C4305: 'argument' : truncation from 'double' to 'Ogre::Real'
+     1>d:\users\mitchell\documents\visual studio 2013\projects\gameengineproject-gravitysim\gameengineproject-gravitysim\gravsim.cpp(253): warning C4305: 'argument' : truncation from 'double' to 'Ogre::Real'
+     1>d:\users\mitchell\documents\visual studio 2013\projects\gameengineproject-gravitysim\gameengineproject-gravitysim\gravsim.cpp(254): warning C4305: 'argument' : truncation from 'double' to 'Ogre::Real'
+     1>d:\users\mitchell\documents\visual studio 2013\projects\gameengineproject-gravitysim\gameengineproject-gravitysim\gravsim.cpp(255): warning C4305: 'argument' : truncation from 'double' to 'Ogre::Real'
+     1>d:\users\mitchell\documents\visual studio 2013\projects\gameengineproject-gravitysim\gameengineproject-gravitysim\gravsim.cpp(256): warning C4305: 'argument' : truncation from 'double' to 'Ogre::Real'
+     1>d:\users\mitchell\documents\visual studio 2013\projects\gameengineproject-gravitysim\gameengineproject-gravitysim\gravsim.cpp(257): warning C4305: 'argument' : truncation from 'double' to 'Ogre::Real'
+     1>d:\users\mitchell\documents\visual studio 2013\projects\gameengineproject-gravitysim\gameengineproject-gravitysim\gravsim.cpp(258): warning C4305: 'argument' : truncation from 'double' to 'Ogre::Real'
+     1>d:\users\mitchell\documents\visual studio 2013\projects\gameengineproject-gravitysim\gameengineproject-gravitysim\gravsim.cpp(259): warning C4305: 'argument' : truncation from 'double' to 'Ogre::Real'
+     1>d:\users\mitchell\documents\visual studio 2013\projects\gameengineproject-gravitysim\gameengineproject-gravitysim\gravsim.cpp(260): warning C4305: 'argument' : truncation from 'double' to 'Ogre::Real'
+     1>d:\users\mitchell\documents\visual studio 2013\projects\gameengineproject-gravitysim\gameengineproject-gravitysim\gravsim.cpp(261): warning C4305: 'argument' : truncation from 'double' to 'Ogre::Real'
+     1>d:\users\mitchell\documents\visual studio 2013\projects\gameengineproject-gravitysim\gameengineproject-gravitysim\gravsim.cpp(262): warning C4305: 'argument' : truncation from 'double' to 'Ogre::Real'
+     1>d:\users\mitchell\documents\visual studio 2013\projects\gameengineproject-gravitysim\gameengineproject-gravitysim\gravsim.cpp(263): warning C4305: 'argument' : truncation from 'double' to 'Ogre::Real'
+     1>d:\users\mitchell\documents\visual studio 2013\projects\gameengineproject-gravitysim\gameengineproject-gravitysim\gravsim.cpp(286): warning C4305: 'argument' : truncation from 'double' to 'Ogre::Real'
+     1>d:\users\mitchell\documents\visual studio 2013\projects\gameengineproject-gravitysim\gameengineproject-gravitysim\gravsim.cpp(297): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\users\mitchell\documents\visual studio 2013\projects\gameengineproject-gravitysim\gameengineproject-gravitysim\gravsim.cpp(299): warning C4305: 'argument' : truncation from 'double' to 'const Ogre::Real'
+     1>d:\users\mitchell\documents\visual studio 2013\projects\gameengineproject-gravitysim\gameengineproject-gravitysim\gravsim.cpp(306): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\users\mitchell\documents\visual studio 2013\projects\gameengineproject-gravitysim\gameengineproject-gravitysim\gravsim.cpp(309): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\users\mitchell\documents\visual studio 2013\projects\gameengineproject-gravitysim\gameengineproject-gravitysim\gravsim.cpp(662): warning C4305: 'argument' : truncation from 'double' to 'const btScalar'
+     1>d:\users\mitchell\documents\visual studio 2013\projects\gameengineproject-gravitysim\gameengineproject-gravitysim\gravsim.cpp(682): warning C4305: 'argument' : truncation from 'double' to 'const btScalar'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\users\mitchell\documents\visual studio 2013\Projects\GameEngineProject-GravitySim\Debug\GameEngineProject-GravitySim.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Mitchell\Desktop\ogre\classENV\boost_1_60_0\lib32-msvc-12.0" /LIBPATH:C:\Users\Mitchell\Desktop\ogre\classENV\Build9\lib/debug /LIBPATH:"C:\Users\Mitchell\Desktop\classEnv\bullet-2.82\lib" /LIBPATH:C:\Users\Mitchell\Desktop\classEnv\cegui\lib OgreMain_d.lib OgreOverlay_d.lib OIS_d.lib OgreTerrain_d.lib BulletCollision_vs2010_debug.lib BulletDynamics_vs2010_debug.lib BulletSoftBody_vs2010_debug.lib ConvexDecomposition_vs2010_debug.lib BulletSoftBodyDX11Solvers_vs2010_debug.lib HACD_vs2010_debug.lib LinearMath_vs2010_debug.lib "CEGUIBase-0_d.lib" "CEGUICommonDialogs-0_d.lib" CEGUICoreWindowRendererSet_d.lib CEGUIExpatParser_d.lib "CEGUIOgreRenderer-0_d.lib" CEGUISILLYImageCodec_d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"d:\users\mitchell\documents\visual studio 2013\Projects\GameEngineProject-GravitySim\Debug\GameEngineProject-GravitySim.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\users\mitchell\documents\visual studio 2013\Projects\GameEngineProject-GravitySim\Debug\GameEngineProject-GravitySim.lib" /MACHINE:X86 Debug\BaseApplication.obj
+         Debug\GravSim.obj
+         GameEngineProject-GravitySim.vcxproj -> d:\users\mitchell\documents\visual studio 2013\Projects\GameEngineProject-GravitySim\Debug\GameEngineProject-GravitySim.exe
+       PostBuildEvent:
+         copy /Y "d:\users\mitchell\documents\visual studio 2013\Projects\GameEngineProject-GravitySim\Debug\GameEngineProject-GravitySim.exe" "C:\Users\Mitchell\Desktop\ogre\classENV\Build9\bin\debug
+         :VCEnd
+                 1 file(s) copied.
+     1>Done Building Project "d:\Users\Mitchell\documents\visual studio 2013\Projects\GameEngineProject-GravitySim\GameEngineProject-GravitySim\GameEngineProject-GravitySim.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:14.81
